@@ -22,4 +22,4 @@ step.5:Run the clock.
     python3 Clock.py
     
     
-# Thank you.
+# Thank you and keep coding.
